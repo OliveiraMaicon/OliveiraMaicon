@@ -8,10 +8,10 @@ Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias lin
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=social&logo=kotlin)
 ![Spring](https://img.shields.io/badge/-Spring-0095D5?style=for-the-badge&logo=spring)
 ![Docker](https://img.shields.io/badge/-Docker-0095D5?style=for-the-badge&logo=docker&color=black)
-![Github Actions](https://img.shields.io/badge/-GithubActions-0095D5?style=for-the-badge&logo=github)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-0095D5?style=for-the-badge&logo=github)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-0095D5?style=for-the-badge&logo=argo)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0095D5?style=for-the-badge&logo=jenkins)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0095D5?style=for-the-badge&logo=kubernetes)
