@@ -2,9 +2,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias linguagens e frameworks. Abaixo estão as principais tecnologias que uso nos meus projetos!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=dark&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=dark&rank_icon=github)
 
 ## 🚀 Tecnologias que eu utilizo
 
