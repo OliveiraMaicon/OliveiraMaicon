@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias lin
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript)
 
 ## ⚡ Estatísticas do GitHub
 
