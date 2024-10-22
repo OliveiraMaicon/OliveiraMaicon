@@ -4,11 +4,11 @@ Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias lin
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=radical)
 
 ## ⚡ Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=radical)
 
 ## 🚀 Tecnologias que eu utilizo
 
