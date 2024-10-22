@@ -7,8 +7,9 @@ Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias lin
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=red)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin)
+![Docker](https://img.shields.io/badge/-Kotlin-0095D5?logo=docker)
 
 
 ## 📫 Como entrar em contato
