@@ -4,11 +4,12 @@ Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias lin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=dark&rank_icon=github)
 
-## 🚀 Tecnologias que eu utilizo
 
-- **Linguagens:** Java, Kotlin
-- **Frameworks:** Spring Boot
-- **Ferramentas:** Docker, Kubernetes, Jenkins, ArgoCD, Github Actions
+## 🛠️ Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+
 
 ## 📫 Como entrar em contato
 - [LinkedIn](https://www.linkedin.com/in/maicon-oliveira-81158277)
