@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Maicon também conhecido como Mikon.
+# Olá! 👋 Eu sou Maicon vulgo Mikon.
 
 Sou um desenvolvedor apaixonado por tecnologia e com experiência em várias linguagens e frameworks. Abaixo estão as principais tecnologias que uso nos meus projetos!
 
