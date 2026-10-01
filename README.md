@@ -2,7 +2,16 @@
 
 Desenvolvedor backend apaixonado por tecnologia, **Clean Architecture + DDD** e, mais recentemente, por **engenharia de software potencializada por IA**. Construo sistemas em JVM e aplico fluxos de desenvolvimento assistido por agentes de IA no dia a dia.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=dark&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraMaicon&layout=compact&langs_count=10&theme=dark&hide=javascript) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraMaicon&show_icons=true&theme=dark&rank_icon=github&count_private=true&include_all_commits=true)
+
+### 📊 Contribuições
+
+[![Profile Views](https://komarev.com/ghpvc/?username=OliveiraMaicon&style=flat-square&color=0095D5&label=Profile+views)](https://github.com/OliveiraMaicon)
+![GitHub Streak](https://streak-stats.demolab.com?user=OliveiraMaicon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OliveiraMaicon&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+> 💼 Grande parte da minha atividade acontece em repositórios **privados corporativos**. As contribuições privadas estão incluídas nas estatísticas acima.
 
 ---
 
